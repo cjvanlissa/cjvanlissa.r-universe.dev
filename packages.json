@@ -1,0 +1,38 @@
+[
+  {
+    "package": "MplusAutomation",
+    "url": "https://github.com/cjvanlissa/MplusAutomation"
+  },
+  {
+    "package": "tidyLPA",
+    "url": "https://github.com/cjvanlissa/tidyLPA"
+  },
+  {
+    "package": "bain",
+    "url": "https://github.com/cjvanlissa/bain"
+  },
+  {
+    "package": "BFpack",
+    "url": "https://github.com/cjvanlissa/BFpack"
+  },
+  {
+    "package": "metaforest",
+    "url": "https://github.com/cjvanlissa/metaforest"
+  },
+  {
+    "package": "tidySEM",
+    "url": "https://github.com/cjvanlissa/tidySEM"
+  },
+  {
+    "package": "gorica",
+    "url": "https://github.com/cjvanlissa/gorica"
+  },
+  {
+    "package": "worcs",
+    "url": "https://github.com/cjvanlissa/worcs"
+  },
+  {
+    "package": "pema",
+    "url": "https://github.com/cjvanlissa/pema"
+  }
+]
