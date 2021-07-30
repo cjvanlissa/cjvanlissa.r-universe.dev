@@ -1,5 +1,9 @@
 [
   {
+    "package": "mice",
+    "url": "https://github.com/cjvanlissa/mice"
+  },
+  {
     "package": "MplusAutomation",
     "url": "https://github.com/cjvanlissa/MplusAutomation"
   },
