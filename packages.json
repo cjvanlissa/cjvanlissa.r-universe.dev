@@ -1,13 +1,5 @@
 [
   {
-    "package": "mice",
-    "url": "https://github.com/cjvanlissa/mice"
-  },
-  {
-    "package": "MplusAutomation",
-    "url": "https://github.com/cjvanlissa/MplusAutomation"
-  },
-  {
     "package": "tidyLPA",
     "url": "https://github.com/cjvanlissa/tidyLPA"
   },
